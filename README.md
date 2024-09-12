@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/house-price-prediction.git
+git clone (https://github.com/sohampawar7030/House_prediction_project)
 Navigate to the Project Directory:
 
 bash
